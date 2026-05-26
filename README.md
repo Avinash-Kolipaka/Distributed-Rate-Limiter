@@ -2,9 +2,9 @@
 
 A cloud-native distributed rate limiting system designed to control API traffic, prevent abuse, and maintain system stability under high concurrency.
 
-This project implements a production-style Token Bucket rate limiter using Redis Lua scripting for atomic operations, Dockerized infrastructure, AWS deployment, observability with Prometheus and Grafana.
+This project implements a production-style Token Bucket rate limiter using Redis Lua scripting for atomic operations, Dockerized infrastructure, AWS deployment, observability with Prometheus & Grafana.
 
----
+ ---
 
 ## 🚀 Features
 
@@ -52,7 +52,7 @@ Prometheus → Grafana
 - Redis (Lua Scripting)
 - MongoDB Atlas
 
-### Cloud and DevOps
+### Cloud & DevOps
 - Docker
 - Docker Compose
 - AWS EC2
@@ -86,7 +86,7 @@ This project solves that problem by implementing a scalable distributed rate lim
 ## 📋 Getting Started
 
 ### Prerequisites
-- Docker and Docker Compose
+- Docker & Docker Compose
 - Node.js 16+
 - Redis
 - MongoDB Atlas Account
