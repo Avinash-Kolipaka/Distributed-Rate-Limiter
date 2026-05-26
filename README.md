@@ -68,4 +68,5 @@ overload servers
 cause denial-of-service issues
 create unfair resource consumption
 
-This project solves that problem by implementing a scalable distributed rate limiter capable of enforcing configurable request limits across multiple services and users.  
+This project solves that problem by implementing a scalable distributed rate limiter capable of enforcing configurable request limits across multiple services and users.
+
